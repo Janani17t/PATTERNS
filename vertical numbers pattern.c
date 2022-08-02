@@ -1,5 +1,11 @@
-#include <stdio.h>
+//Sample input and output: Let n= 3(printing numbers vertically)
+/*  
+1 4 6
+2 5
+3
+*/
 
+#include <stdio.h>
 int main()
 {
     int n,i,j,start=1;
